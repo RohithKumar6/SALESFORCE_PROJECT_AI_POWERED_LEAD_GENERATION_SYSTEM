@@ -6,7 +6,7 @@
 - P. Rohith Kumar (23102A040016)
 - B. Niyaz Basha (23102A040467)
 
-**Mohan Babu University**
+**MOHAN BABU UNIVERSITY**
 
 ## 📄 License
 Educational/academic project.
